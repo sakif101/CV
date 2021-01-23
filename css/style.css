@@ -1,0 +1,22 @@
+:root{
+	--primary:#ffe600;
+	--dark:#000000;
+	--pure:#fcfaf9;
+	--secondary:#f74109;
+	--light: #6588f2;	 
+}
+*{
+	padding: 0;
+	margin:0;
+	box-sizing: border-box;
+	-webkit-font-smoothing:antialiased;
+  
+}
+header{
+		background: var(--dark);
+}
+.container{
+	max-width:1152px;
+	padding:0 15px;
+	margin:0 auto; 
+}
